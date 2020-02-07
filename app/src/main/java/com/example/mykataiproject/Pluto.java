@@ -14,7 +14,6 @@ public class Pluto extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pluto);
 
-
         Button btnPindah = findViewById(R.id.btn);
         btnPindah.setOnClickListener(new View.OnClickListener() {
             @Override

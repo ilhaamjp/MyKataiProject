@@ -32,6 +32,8 @@
         android:text="@string/iseng"
         android:background="@color/colorAccent"
         android:layout_gravity="center"
-        android:textAllCaps="false"/>
+        android:textAllCaps="false"
+        
+        />
 
 </LinearLayout>
