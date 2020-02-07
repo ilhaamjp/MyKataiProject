@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyKataiProject</string>
+    <string name="konten_berita">
+         Ini adalah isi dari \n
+        konten berita \n
+        mau baca \n
+        saya enggak?
+    </string>
+    <string name="iseng">
+        Isinya iseng
+       
+    </string>
+</resources>
